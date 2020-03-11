@@ -4,3 +4,18 @@
    *Queue
    
 #Map
+   >HashMap
+   >LinkedHashMap
+  
+   >IdentityHashMap
+  
+   >weakHashMap
+  
+ *SortedMap
+ *NavigabelMap
+   >TreeMap
+   
+   >Dictonary
+   >Hashtable
+   >Properties
+    
