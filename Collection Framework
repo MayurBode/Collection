@@ -1,6 +1,9 @@
 # Collection
    *List
    *Set
+     *SortedSet
+     *NavigableSet
+     >TreeSet
    *Queue
    
 #Map
