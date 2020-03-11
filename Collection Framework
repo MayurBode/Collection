@@ -2,5 +2,8 @@
    *List
    *Set
    *Queue
+     *PriorityQueue    *BlockingQueue
+                          >PriorityBlockingQueue
+                          >LinkedBlockingQueue
    
 #Map
